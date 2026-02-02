@@ -24,3 +24,4 @@ O projeto será carregado na FPGA e executado imediatamente.
 1. Clique em **Add File** e selecione o arquivo `.sof` gerado  
 2. Marque a opção **Program/Configure**  
 3. Clique em **Start**
+4. Aguarde a mensagem **100% (Successful)**  
